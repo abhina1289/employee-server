@@ -1,0 +1,67 @@
+{
+  "employee": [
+    {
+      "id": "2",
+      "name": "Priya Sharma",
+      "email": "priya@example.com",
+      "salary": 62000,
+      "phone": "9988776655"
+    },
+    {
+      "id": "3",
+      "name": "Kunal Verma",
+      "email": "kunal@example.com",
+      "salary": 58000,
+      "phone": "9123456780"
+    },
+    {
+      "id": "4",
+      "name": "Sneha Patil",
+      "email": "sneha@example.com",
+      "salary": 60000,
+      "phone": "9765432100"
+    },
+    {
+      "id": "5",
+      "name": "Ravi Kumar",
+      "email": "ravi@example.com",
+      "salary": 50000,
+      "phone": "9856231470"
+    },
+    {
+      "id": "6",
+      "name": "Neha Singh",
+      "email": "neha@example.com",
+      "salary": 67000,
+      "phone": "9876012345"
+    },
+    {
+      "id": "7",
+      "name": "Amit Joshi",
+      "email": "amit@example.com",
+      "salary": 71000,
+      "phone": "9991234567"
+    },
+    {
+      "id": "8",
+      "name": "Divya Kapoor",
+      "email": "divya@example.com",
+      "salary": 64000,
+      "phone": "9098765432"
+    },
+    {
+      "id": "9",
+      "name": "Manish Das",
+      "email": "manish@example.com",
+      "salary": 59000,
+      "phone": "9012345678"
+    },
+    {
+      "id": "10",
+      "name": "Anita Rao",
+      "email": "anita@example.com",
+      "salary": 62000,
+      "phone": "9112233445"
+    }
+  ]
+}
